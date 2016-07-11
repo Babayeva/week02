@@ -1,0 +1,27 @@
+/*.cuce{
+	width: 150px;
+	height: 200px;
+	background-color: purple;
+	overflow: hidden;
+	padding: 10px;
+	margin: 200px auto
+}
+p{
+	margin: 10px 
+}*/
+/*.first{
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	padding: 50px;
+	margin: 250px auto;
+}
+ .second{
+ 	width: 100px;
+ 	height: 100px;
+ 	background-color: violet;*/
+ 	/*margin:50px;
+ }*/
+th,td{
+	padding: 5px;
+}

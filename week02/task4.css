@@ -1,0 +1,21 @@
+.comment1{
+width: 5px;
+height: 5px;
+background-color: white;
+border-top:50px solid white;
+border-bottom: 50px solid white;
+border-right: 50px solid violet;
+border-left: 50px solid white;
+margin-left:-60px;
+float:left;
+}
+
+.comment{
+	width: 300px;
+	border-radius: 2%;
+	background-color: violet;
+	margin-left: 40px;
+	margin-top: -120px;
+	word-wrap: break-word;
+	float: left;
+}
